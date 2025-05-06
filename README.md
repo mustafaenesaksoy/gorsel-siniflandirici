@@ -2,6 +2,8 @@
 
 Bu proje, TensorFlow kullanarak eğitilmiş bir modelle farklı görselleri (meyve, hayvan vb.) sınıflandıran basit bir yapay zeka uygulamasıdır. Kullanıcılar bilgisayarlarından bir görsel yükleyerek hangi sınıfa ait olduğunu öğrenebilir.
 
+**GitHub Reposu:** [gorsel-siniflandirici](https://github.com/mustafaenesaksoy/gorsel-siniflandirici)
+
 ## 🧠 Kullanılan Teknolojiler
 
 - Python
