@@ -34,6 +34,13 @@ streamlit run app.py
 
 Model Fruits360 veri seti kullanılarak 10 sınıf üzerinden eğitilmiştir. Eğitim sırasında doğruluk (accuracy) %99 seviyelerine ulaşmıştır.
 
+## 📷 Ekran Görüntüsü
+![Screenshot 2025-05-06 172257](https://github.com/user-attachments/assets/f6155161-84b0-470a-b681-4ef61d025010)
+
+![Screenshot 2025-05-06 172236](https://github.com/user-attachments/assets/4d77cb7b-3953-4122-8bdd-7d1a09ca39f4)
+![Screenshot 2025-05-06 172320](https://github.com/user-attachments/assets/e26dbe8b-8587-40ef-bf22-3bd0ab35bf2d)
+
+
 
 ## 🔗 Kaynaklar
 
