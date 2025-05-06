@@ -34,6 +34,10 @@ streamlit run app.py
 
 Model Fruits360 veri seti kullanılarak 10 sınıf üzerinden eğitilmiştir. Eğitim sırasında doğruluk (accuracy) %99 seviyelerine ulaşmıştır.
 
+## Model Performansı
+Aşağıda, modelin eğitim sürecinde elde edilen doğruluk oranı (accuracy) gösterilmektedir:
+![accuracy](https://github.com/user-attachments/assets/b09cd4ae-073c-4972-b59a-ab7404875199)
+
 ## 📷 Ekran Görüntüsü
 ![Screenshot 2025-05-06 172257](https://github.com/user-attachments/assets/f6155161-84b0-470a-b681-4ef61d025010)
 
